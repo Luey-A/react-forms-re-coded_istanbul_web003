@@ -4,7 +4,6 @@ import React from 'react';
 class Form extends React.Component {
   state = {
     firstName: "John",
-    lastName: "Henry"
     lastName: "Henry",
     submittedData: []
   }
